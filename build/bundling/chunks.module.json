@@ -1,0 +1,58 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.43.0",
+  "hash": "af7e9ef53be5159286b2",
+  "publicPath": "/static/",
+  "outputPath": "/Users/MAC/Documents/jearwebdevelopment/website-revamp/build/static",
+  "assetsByChunkName": {
+    "test": "test.module.js"
+  },
+  "assets": [
+    {
+      "name": "test.module.js",
+      "size": 8796935,
+      "chunks": [
+        "test"
+      ],
+      "chunkNames": [
+        "test"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "test": {
+      "chunks": [
+        "test"
+      ],
+      "assets": [
+        "test.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "test": {
+      "chunks": [
+        "test"
+      ],
+      "assets": [
+        "test.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 2,
+      "debug": false
+    }
+  },
+  "children": []
+}
